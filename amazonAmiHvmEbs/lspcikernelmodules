@@ -1,0 +1,13 @@
+00:00.0 Host bridge: Intel Corporation 440FX - 82441FX PMC [Natoma] (rev 02)
+	Subsystem: Red Hat, Inc Qemu virtual machine
+00:01.0 ISA bridge: Intel Corporation 82371SB PIIX3 ISA [Natoma/Triton II]
+	Subsystem: Red Hat, Inc Qemu virtual machine
+00:01.1 IDE interface: Intel Corporation 82371SB PIIX3 IDE [Natoma/Triton II]
+	Subsystem: XenSource, Inc. Device 0001
+00:01.3 Bridge: Intel Corporation 82371AB/EB/MB PIIX4 ACPI (rev 01)
+	Subsystem: Red Hat, Inc Qemu virtual machine
+00:02.0 VGA compatible controller: Cirrus Logic GD 5446
+	Subsystem: XenSource, Inc. Device 0001
+00:03.0 Unassigned class [ff80]: XenSource, Inc. Xen Platform Device (rev 01)
+	Subsystem: XenSource, Inc. Xen Platform Device
+	Kernel driver in use: xen-platform-pci
